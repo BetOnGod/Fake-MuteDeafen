@@ -4,7 +4,7 @@
  * @description Allows you to fake mute and deafen yourself, shows for others. This has been found by many others but I've decided to add some features to beautify it.
  * @author BetOnGod
  * @source https://github.com/BetOnGod
- * @updateUrl https://raw.githubusercontent.com/BetOnGod/FakeMuteAnd/main/FakeMute%26DeafenDiscord
+ * @updateUrl https://raw.githubusercontent.com/BetOnGod/Fake-MuteDeafen/main/FakeM%26D.plugin.js
  */
 
 module.exports = class FakeMuteDeafen {
